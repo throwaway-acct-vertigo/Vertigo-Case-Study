@@ -12,12 +12,14 @@ namespace DefaultNamespace
             base.Awake();
             image = GetComponentInChildren<Image>();
         }
-
+        
+#if UNITY_EDITOR
         protected override void OnValidate()
         {
             base.OnValidate();
             _textMeshPro = GetComponentInChildren<TMP_Text>(true);
         }
+#endif
 
         protected override void OnEnable()
         {

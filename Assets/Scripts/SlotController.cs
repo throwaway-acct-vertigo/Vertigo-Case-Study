@@ -38,6 +38,13 @@ namespace DefaultNamespace
             }
         }
 
+#if UNITY_EDITOR
+        protected override void OnValidate()
+        {
+            base.OnValidate();
+        }
+#endif
+
         public virtual void Hover(bool hovering)
         {
         }
