@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b472c64f23469da6c9e83dc33f4ac8, type: 3}
+  m_Name: SuperZone 66
+  m_EditorClassIdentifier: 
+  wheelName: Super
+  zoneType: 2
+  slices:
+  - sliceName: Shotgun
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: shotgun
+      Name: Shotgun
+      <Icon>k__BackingField: {fileID: 21300000, guid: 340d5ba46c34ce2499ac6892e005aa4b, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 340d5ba46c34ce2499ac6892e005aa4b, type: 3}
+  - sliceName: Aviator Glasses
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: aviatorGlasses
+      Name: Aviator Glasses
+      <Icon>k__BackingField: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+  - sliceName: Super Chest
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: superChest
+      Name: Super Chest
+      <Icon>k__BackingField: {fileID: 21300000, guid: 0f44e066e1923e0479c2acde96dc75cb, type: 3}
+      Type: 3
+    iconSprite: {fileID: 21300000, guid: 0f44e066e1923e0479c2acde96dc75cb, type: 3}
+  - sliceName: M67 Grenade
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: grenadeM67
+      Name: M67 Grenade
+      <Icon>k__BackingField: {fileID: 21300000, guid: a1cbfeb5223e02241bcfcfe64932b980, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: a1cbfeb5223e02241bcfcfe64932b980, type: 3}
+  - sliceName: 'M26 Grenade '
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: grenadeM26
+      Name: 'M26 Grenade '
+      <Icon>k__BackingField: {fileID: 21300000, guid: 99a8a0ccd21615f4d8e884516ee497b6, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: 99a8a0ccd21615f4d8e884516ee497b6, type: 3}
+  - sliceName: Aviator Glasses
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: aviatorGlasses
+      Name: Aviator Glasses
+      <Icon>k__BackingField: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+  - sliceName: Knife Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: knifePoints
+      Name: Knife Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: 668fe677265ae7e468e642f4c83b65c5, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: 668fe677265ae7e468e642f4c83b65c5, type: 3}
+  - sliceName: M67 Grenade
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: grenadeM67
+      Name: M67 Grenade
+      <Icon>k__BackingField: {fileID: 21300000, guid: a1cbfeb5223e02241bcfcfe64932b980, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: a1cbfeb5223e02241bcfcfe64932b980, type: 3}
+  hasBomb: 0
+  rewardMultiplier: 1

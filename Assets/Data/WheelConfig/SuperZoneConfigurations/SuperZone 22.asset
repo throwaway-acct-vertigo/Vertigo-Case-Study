@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b472c64f23469da6c9e83dc33f4ac8, type: 3}
+  m_Name: SuperZone 22
+  m_EditorClassIdentifier: 
+  wheelName: Super
+  zoneType: 2
+  slices:
+  - sliceName: Armor Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: armorPoints
+      Name: Armor Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: b00013f875776434a8d7d8d98feb9c6c, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: b00013f875776434a8d7d8d98feb9c6c, type: 3}
+  - sliceName: Gold
+    isBomb: 0
+    Reward:
+      Amount: 5
+      ID: gold
+      Name: Gold
+      <Icon>k__BackingField: {fileID: 21300000, guid: f4b8f6635441a7541afef9445e8dcf85, type: 3}
+      Type: 2
+    iconSprite: {fileID: 21300000, guid: f4b8f6635441a7541afef9445e8dcf85, type: 3}
+  - sliceName: Regenerator
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: regenerator
+      Name: Regenerator
+      <Icon>k__BackingField: {fileID: 21300000, guid: af424aeb74c78794bb94a550be5fe4d0, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: af424aeb74c78794bb94a550be5fe4d0, type: 3}
+  - sliceName: Submachine Gun
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: submachineGun
+      Name: Submachine Gun
+      <Icon>k__BackingField: {fileID: 21300000, guid: 13b9200fafd80d749850c706c7b76aa4, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 13b9200fafd80d749850c706c7b76aa4, type: 3}
+  - sliceName: Rifle Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: riflePoints
+      Name: Rifle Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: 3333c6926cc7d7941a98c9c2b89715b4, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: 3333c6926cc7d7941a98c9c2b89715b4, type: 3}
+  - sliceName: Pistol Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: pistolPoints
+      Name: Pistol Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: f07f000139fb8f343a6b1084129a8347, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: f07f000139fb8f343a6b1084129a8347, type: 3}
+  - sliceName: Summer Vice Bayonet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: summerViceBayonet
+      Name: Summer Vice Bayonet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+  - sliceName: Neurostim
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: neuroStim
+      Name: Neurostim
+      <Icon>k__BackingField: {fileID: 21300000, guid: ca6d157b755b0244488afca7a29d25dd, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: ca6d157b755b0244488afca7a29d25dd, type: 3}
+  hasBomb: 0
+  rewardMultiplier: 1

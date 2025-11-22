@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b472c64f23469da6c9e83dc33f4ac8, type: 3}
+  m_Name: SuperZone 48
+  m_EditorClassIdentifier: 
+  wheelName: Super
+  zoneType: 2
+  slices:
+  - sliceName: M67 Grenade
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: grenadeM67
+      Name: M67 Grenade
+      <Icon>k__BackingField: {fileID: 21300000, guid: a1cbfeb5223e02241bcfcfe64932b980, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: a1cbfeb5223e02241bcfcfe64932b980, type: 3}
+  - sliceName: Super Chest
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: superChest
+      Name: Super Chest
+      <Icon>k__BackingField: {fileID: 21300000, guid: 0f44e066e1923e0479c2acde96dc75cb, type: 3}
+      Type: 3
+    iconSprite: {fileID: 21300000, guid: 0f44e066e1923e0479c2acde96dc75cb, type: 3}
+  - sliceName: Cash
+    isBomb: 0
+    Reward:
+      Amount: 50
+      ID: cash
+      Name: Cash
+      <Icon>k__BackingField: {fileID: 21300000, guid: a8063bf684664b04bbc701d818a8500a, type: 3}
+      Type: 1
+    iconSprite: {fileID: 21300000, guid: a8063bf684664b04bbc701d818a8500a, type: 3}
+  - sliceName: Bronze Chest
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: bronzeChest
+      Name: Bronze Chest
+      <Icon>k__BackingField: {fileID: 21300000, guid: af51e8d3ad4df6d4fb9ad5d0f8d87eb5, type: 3}
+      Type: 3
+    iconSprite: {fileID: 21300000, guid: af51e8d3ad4df6d4fb9ad5d0f8d87eb5, type: 3}
+  - sliceName: Big Chest
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: bigChest
+      Name: Big Chest
+      <Icon>k__BackingField: {fileID: 21300000, guid: 0d3c1a90570441849ae6daa44a351450, type: 3}
+      Type: 3
+    iconSprite: {fileID: 21300000, guid: 0d3c1a90570441849ae6daa44a351450, type: 3}
+  - sliceName: Shotgun
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: shotgun
+      Name: Shotgun
+      <Icon>k__BackingField: {fileID: 21300000, guid: 340d5ba46c34ce2499ac6892e005aa4b, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 340d5ba46c34ce2499ac6892e005aa4b, type: 3}
+  - sliceName: Cash
+    isBomb: 0
+    Reward:
+      Amount: 50
+      ID: cash
+      Name: Cash
+      <Icon>k__BackingField: {fileID: 21300000, guid: a8063bf684664b04bbc701d818a8500a, type: 3}
+      Type: 1
+    iconSprite: {fileID: 21300000, guid: a8063bf684664b04bbc701d818a8500a, type: 3}
+  - sliceName: Baseball Cap
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: baseballCap
+      Name: Baseball Cap
+      <Icon>k__BackingField: {fileID: 21300000, guid: 11a9725779ba8ec4b8f21ab79563c66b, type: 3}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: 11a9725779ba8ec4b8f21ab79563c66b, type: 3}
+  hasBomb: 0
+  rewardMultiplier: 1

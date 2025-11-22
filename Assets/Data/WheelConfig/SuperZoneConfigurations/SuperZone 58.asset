@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b472c64f23469da6c9e83dc33f4ac8, type: 3}
+  m_Name: SuperZone 58
+  m_EditorClassIdentifier: 
+  wheelName: Super
+  zoneType: 2
+  slices:
+  - sliceName: Summer Vice Bayonet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: summerViceBayonet
+      Name: Summer Vice Bayonet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+  - sliceName: Knife
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: knife
+      Name: Knife
+      <Icon>k__BackingField: {fileID: 21300000, guid: eebc05dc542d1294ca045697c0b3119a, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: eebc05dc542d1294ca045697c0b3119a, type: 3}
+  - sliceName: Pistol Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: pistolPoints
+      Name: Pistol Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: f07f000139fb8f343a6b1084129a8347, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: f07f000139fb8f343a6b1084129a8347, type: 3}
+  - sliceName: Shotgun Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: shotgunPoints
+      Name: Shotgun Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: dbd10e33d2ba25c41a736f2b3fc39956, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: dbd10e33d2ba25c41a736f2b3fc39956, type: 3}
+  - sliceName: Molotov Cocktail
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: molotovCocktail
+      Name: Molotov Cocktail
+      <Icon>k__BackingField: {fileID: 21300000, guid: a4233f1b9bc61ba48bda9901f7f68850, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: a4233f1b9bc61ba48bda9901f7f68850, type: 3}
+  - sliceName: Aviator Glasses
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: aviatorGlasses
+      Name: Aviator Glasses
+      <Icon>k__BackingField: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+  - sliceName: Gold
+    isBomb: 0
+    Reward:
+      Amount: 5
+      ID: gold
+      Name: Gold
+      <Icon>k__BackingField: {fileID: 21300000, guid: f4b8f6635441a7541afef9445e8dcf85, type: 3}
+      Type: 2
+    iconSprite: {fileID: 21300000, guid: f4b8f6635441a7541afef9445e8dcf85, type: 3}
+  - sliceName: Regenerator
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: regenerator
+      Name: Regenerator
+      <Icon>k__BackingField: {fileID: 21300000, guid: af424aeb74c78794bb94a550be5fe4d0, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: af424aeb74c78794bb94a550be5fe4d0, type: 3}
+  hasBomb: 0
+  rewardMultiplier: 1

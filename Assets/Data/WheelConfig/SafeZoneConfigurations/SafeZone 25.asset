@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b472c64f23469da6c9e83dc33f4ac8, type: 3}
+  m_Name: SafeZone 25
+  m_EditorClassIdentifier: 
+  wheelName: Safe
+  zoneType: 1
+  slices:
+  - sliceName: Silver Chest
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: silverChest
+      Name: Silver Chest
+      <Icon>k__BackingField: {fileID: 21300000, guid: 635162515b77e754cb6f9f75488974e2, type: 3}
+      Type: 3
+    iconSprite: {fileID: 21300000, guid: 635162515b77e754cb6f9f75488974e2, type: 3}
+  - sliceName: Shotgun
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: shotgun
+      Name: Shotgun
+      <Icon>k__BackingField: {fileID: 21300000, guid: 340d5ba46c34ce2499ac6892e005aa4b, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 340d5ba46c34ce2499ac6892e005aa4b, type: 3}
+  - sliceName: Easter Time Bayonet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: easterTimeBayonet
+      Name: Easter Time Bayonet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 2a596719b85251c498bebcb2bef899b7, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 2a596719b85251c498bebcb2bef899b7, type: 3}
+  - sliceName: Armor Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: armorPoints
+      Name: Armor Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: b00013f875776434a8d7d8d98feb9c6c, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: b00013f875776434a8d7d8d98feb9c6c, type: 3}
+  - sliceName: Baseball Cap
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: baseballCap
+      Name: Baseball Cap
+      <Icon>k__BackingField: {fileID: 21300000, guid: 11a9725779ba8ec4b8f21ab79563c66b, type: 3}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: 11a9725779ba8ec4b8f21ab79563c66b, type: 3}
+  - sliceName: Pumpkin Helmet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: pumpkinHelmet
+      Name: Pumpkin Helmet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 689a600d2f3cda346aff75cd9984ba11, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 689a600d2f3cda346aff75cd9984ba11, type: 3}
+  - sliceName: Vest Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: vestPoints
+      Name: Vest Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: 49f18d07dd12e92429f41baf4415956d, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: 49f18d07dd12e92429f41baf4415956d, type: 3}
+  - sliceName: Shotgun Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: shotgunPoints
+      Name: Shotgun Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: dbd10e33d2ba25c41a736f2b3fc39956, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: dbd10e33d2ba25c41a736f2b3fc39956, type: 3}
+  hasBomb: 0
+  rewardMultiplier: 1

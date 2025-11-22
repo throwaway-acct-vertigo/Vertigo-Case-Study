@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b472c64f23469da6c9e83dc33f4ac8, type: 3}
+  m_Name: RegularZone 83
+  m_EditorClassIdentifier: 
+  wheelName: Regular
+  zoneType: 0
+  slices:
+  - sliceName: smallChest
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: Small Chest
+      Name: smallChest
+      <Icon>k__BackingField: {fileID: 21300000, guid: 5097a79f09dd469428e73176b3237d03, type: 3}
+      Type: 3
+    iconSprite: {fileID: 21300000, guid: 5097a79f09dd469428e73176b3237d03, type: 3}
+  - sliceName: Submachine Gun
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: submachineGun
+      Name: Submachine Gun
+      <Icon>k__BackingField: {fileID: 21300000, guid: 13b9200fafd80d749850c706c7b76aa4, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 13b9200fafd80d749850c706c7b76aa4, type: 3}
+  - sliceName: Aviator Glasses
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: aviatorGlasses
+      Name: Aviator Glasses
+      <Icon>k__BackingField: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+  - sliceName: Big Chest
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: bigChest
+      Name: Big Chest
+      <Icon>k__BackingField: {fileID: 21300000, guid: 0d3c1a90570441849ae6daa44a351450, type: 3}
+      Type: 3
+    iconSprite: {fileID: 21300000, guid: 0d3c1a90570441849ae6daa44a351450, type: 3}
+  - sliceName: Knife Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: knifePoints
+      Name: Knife Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: 668fe677265ae7e468e642f4c83b65c5, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: 668fe677265ae7e468e642f4c83b65c5, type: 3}
+  - sliceName: Shotgun
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: shotgun
+      Name: Shotgun
+      <Icon>k__BackingField: {fileID: 21300000, guid: 340d5ba46c34ce2499ac6892e005aa4b, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 340d5ba46c34ce2499ac6892e005aa4b, type: 3}
+  - sliceName: Submachine Gun
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: submachineGun
+      Name: Submachine Gun
+      <Icon>k__BackingField: {fileID: 21300000, guid: 13b9200fafd80d749850c706c7b76aa4, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 13b9200fafd80d749850c706c7b76aa4, type: 3}
+  - sliceName: bomb
+    isBomb: 1
+    Reward:
+      Amount: 0
+      ID: 
+      Name: 
+      <Icon>k__BackingField: {fileID: 0}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: bf71c39d510ab81428507f3a1f061c7c, type: 3}
+  hasBomb: 1
+  rewardMultiplier: 1

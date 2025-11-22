@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b472c64f23469da6c9e83dc33f4ac8, type: 3}
+  m_Name: SafeZone 3
+  m_EditorClassIdentifier: 
+  wheelName: Safe
+  zoneType: 1
+  slices:
+  - sliceName: Gold
+    isBomb: 0
+    Reward:
+      Amount: 5
+      ID: gold
+      Name: Gold
+      <Icon>k__BackingField: {fileID: 21300000, guid: f4b8f6635441a7541afef9445e8dcf85, type: 3}
+      Type: 2
+    iconSprite: {fileID: 21300000, guid: f4b8f6635441a7541afef9445e8dcf85, type: 3}
+  - sliceName: Regenerator
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: regenerator
+      Name: Regenerator
+      <Icon>k__BackingField: {fileID: 21300000, guid: af424aeb74c78794bb94a550be5fe4d0, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: af424aeb74c78794bb94a550be5fe4d0, type: 3}
+  - sliceName: Knife Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: knifePoints
+      Name: Knife Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: 668fe677265ae7e468e642f4c83b65c5, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: 668fe677265ae7e468e642f4c83b65c5, type: 3}
+  - sliceName: 'M26 Grenade '
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: grenadeM26
+      Name: 'M26 Grenade '
+      <Icon>k__BackingField: {fileID: 21300000, guid: 99a8a0ccd21615f4d8e884516ee497b6, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: 99a8a0ccd21615f4d8e884516ee497b6, type: 3}
+  - sliceName: Easter Time Bayonet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: easterTimeBayonet
+      Name: Easter Time Bayonet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 2a596719b85251c498bebcb2bef899b7, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 2a596719b85251c498bebcb2bef899b7, type: 3}
+  - sliceName: Summer Vice Bayonet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: summerViceBayonet
+      Name: Summer Vice Bayonet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+  - sliceName: M67 Grenade
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: grenadeM67
+      Name: M67 Grenade
+      <Icon>k__BackingField: {fileID: 21300000, guid: a1cbfeb5223e02241bcfcfe64932b980, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: a1cbfeb5223e02241bcfcfe64932b980, type: 3}
+  - sliceName: Molotov Cocktail
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: molotovCocktail
+      Name: Molotov Cocktail
+      <Icon>k__BackingField: {fileID: 21300000, guid: a4233f1b9bc61ba48bda9901f7f68850, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: a4233f1b9bc61ba48bda9901f7f68850, type: 3}
+  hasBomb: 0
+  rewardMultiplier: 1

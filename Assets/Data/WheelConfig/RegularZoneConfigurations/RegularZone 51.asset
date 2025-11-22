@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b472c64f23469da6c9e83dc33f4ac8, type: 3}
+  m_Name: RegularZone 51
+  m_EditorClassIdentifier: 
+  wheelName: Regular
+  zoneType: 0
+  slices:
+  - sliceName: Summer Vice Bayonet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: summerViceBayonet
+      Name: Summer Vice Bayonet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+  - sliceName: Vest Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: vestPoints
+      Name: Vest Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: 49f18d07dd12e92429f41baf4415956d, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: 49f18d07dd12e92429f41baf4415956d, type: 3}
+  - sliceName: Summer Vice Bayonet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: summerViceBayonet
+      Name: Summer Vice Bayonet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+  - sliceName: Cash
+    isBomb: 0
+    Reward:
+      Amount: 50
+      ID: cash
+      Name: Cash
+      <Icon>k__BackingField: {fileID: 21300000, guid: a8063bf684664b04bbc701d818a8500a, type: 3}
+      Type: 1
+    iconSprite: {fileID: 21300000, guid: a8063bf684664b04bbc701d818a8500a, type: 3}
+  - sliceName: Pumpkin Helmet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: pumpkinHelmet
+      Name: Pumpkin Helmet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 689a600d2f3cda346aff75cd9984ba11, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 689a600d2f3cda346aff75cd9984ba11, type: 3}
+  - sliceName: Vest Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: vestPoints
+      Name: Vest Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: 49f18d07dd12e92429f41baf4415956d, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: 49f18d07dd12e92429f41baf4415956d, type: 3}
+  - sliceName: smallChest
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: Small Chest
+      Name: smallChest
+      <Icon>k__BackingField: {fileID: 21300000, guid: 5097a79f09dd469428e73176b3237d03, type: 3}
+      Type: 3
+    iconSprite: {fileID: 21300000, guid: 5097a79f09dd469428e73176b3237d03, type: 3}
+  - sliceName: bomb
+    isBomb: 1
+    Reward:
+      Amount: 0
+      ID: 
+      Name: 
+      <Icon>k__BackingField: {fileID: 0}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: bf71c39d510ab81428507f3a1f061c7c, type: 3}
+  hasBomb: 1
+  rewardMultiplier: 1

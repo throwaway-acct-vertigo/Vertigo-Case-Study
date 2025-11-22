@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b472c64f23469da6c9e83dc33f4ac8, type: 3}
+  m_Name: SafeZone 11
+  m_EditorClassIdentifier: 
+  wheelName: Safe
+  zoneType: 1
+  slices:
+  - sliceName: Aviator Glasses
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: aviatorGlasses
+      Name: Aviator Glasses
+      <Icon>k__BackingField: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+  - sliceName: Molotov Cocktail
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: molotovCocktail
+      Name: Molotov Cocktail
+      <Icon>k__BackingField: {fileID: 21300000, guid: a4233f1b9bc61ba48bda9901f7f68850, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: a4233f1b9bc61ba48bda9901f7f68850, type: 3}
+  - sliceName: Cash
+    isBomb: 0
+    Reward:
+      Amount: 50
+      ID: cash
+      Name: Cash
+      <Icon>k__BackingField: {fileID: 21300000, guid: a8063bf684664b04bbc701d818a8500a, type: 3}
+      Type: 1
+    iconSprite: {fileID: 21300000, guid: a8063bf684664b04bbc701d818a8500a, type: 3}
+  - sliceName: Bronze Chest
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: bronzeChest
+      Name: Bronze Chest
+      <Icon>k__BackingField: {fileID: 21300000, guid: af51e8d3ad4df6d4fb9ad5d0f8d87eb5, type: 3}
+      Type: 3
+    iconSprite: {fileID: 21300000, guid: af51e8d3ad4df6d4fb9ad5d0f8d87eb5, type: 3}
+  - sliceName: Golden Chest
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: goldChest
+      Name: Golden Chest
+      <Icon>k__BackingField: {fileID: 21300000, guid: 0a332b82665c3884fa124002c66ca0d6, type: 3}
+      Type: 3
+    iconSprite: {fileID: 21300000, guid: 0a332b82665c3884fa124002c66ca0d6, type: 3}
+  - sliceName: Sniper Rifle
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: sniperRifle
+      Name: Sniper Rifle
+      <Icon>k__BackingField: {fileID: 21300000, guid: 8b228d2e83eb7ba46bb34dea1a1325b7, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 8b228d2e83eb7ba46bb34dea1a1325b7, type: 3}
+  - sliceName: Armor Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: armorPoints
+      Name: Armor Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: b00013f875776434a8d7d8d98feb9c6c, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: b00013f875776434a8d7d8d98feb9c6c, type: 3}
+  - sliceName: Armor Points
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: armorPoints
+      Name: Armor Points
+      <Icon>k__BackingField: {fileID: 21300000, guid: b00013f875776434a8d7d8d98feb9c6c, type: 3}
+      Type: 6
+    iconSprite: {fileID: 21300000, guid: b00013f875776434a8d7d8d98feb9c6c, type: 3}
+  hasBomb: 0
+  rewardMultiplier: 1

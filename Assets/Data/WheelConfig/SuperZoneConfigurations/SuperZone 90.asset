@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8b472c64f23469da6c9e83dc33f4ac8, type: 3}
+  m_Name: SuperZone 90
+  m_EditorClassIdentifier: 
+  wheelName: Super
+  zoneType: 2
+  slices:
+  - sliceName: 'M26 Grenade '
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: grenadeM26
+      Name: 'M26 Grenade '
+      <Icon>k__BackingField: {fileID: 21300000, guid: 99a8a0ccd21615f4d8e884516ee497b6, type: 3}
+      Type: 4
+    iconSprite: {fileID: 21300000, guid: 99a8a0ccd21615f4d8e884516ee497b6, type: 3}
+  - sliceName: Summer Vice Bayonet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: summerViceBayonet
+      Name: Summer Vice Bayonet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 75522d38ba2c5c943ab79f3f5d30fa0a, type: 3}
+  - sliceName: Cash
+    isBomb: 0
+    Reward:
+      Amount: 50
+      ID: cash
+      Name: Cash
+      <Icon>k__BackingField: {fileID: 21300000, guid: a8063bf684664b04bbc701d818a8500a, type: 3}
+      Type: 1
+    iconSprite: {fileID: 21300000, guid: a8063bf684664b04bbc701d818a8500a, type: 3}
+  - sliceName: Aviator Glasses
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: aviatorGlasses
+      Name: Aviator Glasses
+      <Icon>k__BackingField: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+  - sliceName: Easter Time Bayonet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: easterTimeBayonet
+      Name: Easter Time Bayonet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 2a596719b85251c498bebcb2bef899b7, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 2a596719b85251c498bebcb2bef899b7, type: 3}
+  - sliceName: Pumpkin Helmet
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: pumpkinHelmet
+      Name: Pumpkin Helmet
+      <Icon>k__BackingField: {fileID: 21300000, guid: 689a600d2f3cda346aff75cd9984ba11, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 689a600d2f3cda346aff75cd9984ba11, type: 3}
+  - sliceName: Submachine Gun
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: submachineGun
+      Name: Submachine Gun
+      <Icon>k__BackingField: {fileID: 21300000, guid: 13b9200fafd80d749850c706c7b76aa4, type: 3}
+      Type: 5
+    iconSprite: {fileID: 21300000, guid: 13b9200fafd80d749850c706c7b76aa4, type: 3}
+  - sliceName: Aviator Glasses
+    isBomb: 0
+    Reward:
+      Amount: 1
+      ID: aviatorGlasses
+      Name: Aviator Glasses
+      <Icon>k__BackingField: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+      Type: 0
+    iconSprite: {fileID: 21300000, guid: ad1c37f12db82e34180924f4b7f89e7d, type: 3}
+  hasBomb: 0
+  rewardMultiplier: 1
