@@ -1,3 +1,6 @@
+Video Link:
+https://drive.google.com/file/d/1uar65bCOgb6HP_PIHT7M4ANAZAI6VXyX/view?usp=sharing
+
 16x9 çözünürlük
 
 <img width="1066" height="599" alt="image" src="https://github.com/user-attachments/assets/7b5b0f2d-f276-4001-91a4-2b4d18dbc1a4" />
