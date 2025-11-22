@@ -1,7 +1,13 @@
 Biraz daha zamanım kalsa yapacağım şeyler:
 Object pooling: bazı objeleri yaratıp destroy ediyoruz, bunun computational külfetinden kurtulmak çok zor olmazdı
+
 Dependency Injection: scriptable objeleri kullanarak dependency injection, unity contextinde daha oop bir yapıyı tesis etmemizde faydalı
+
 Daha iyi animasyonlar ve daha iyi ince ayar
+
+Unity'nin güncel input modülü
+
+Statik bir eventleri içeren obje yerine adamakıllı bir event bus
 
 Video Link:
 https://drive.google.com/file/d/1uar65bCOgb6HP_PIHT7M4ANAZAI6VXyX/view?usp=sharing
