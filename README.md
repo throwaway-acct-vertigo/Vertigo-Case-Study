@@ -1,9 +1,10 @@
 Biraz daha zamanım kalsa yapacağım şeyler:
+
 Object pooling: bazı objeleri yaratıp destroy ediyoruz, bunun computational külfetinden kurtulmak çok zor olmazdı
 
 Dependency Injection: scriptable objeleri kullanarak dependency injection, unity contextinde daha oop bir yapıyı tesis etmemizde faydalı
 
-Daha iyi animasyonlar ve daha iyi ince ayar
+Daha iyi animasyonlar ve daha iyi ince ayar, özellikle 4:3teki haline pek bayılmadım
 
 Unity'nin güncel input modülü
 
